@@ -1,1 +1,1 @@
-# M8MachineLearningLabsAndHomeworks
+# M8_ML_LabsAndHomeworks
