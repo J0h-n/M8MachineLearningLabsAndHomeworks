@@ -1,1 +1,2 @@
-# M8_ML_LabsAndHomeworks
+ML_LabsAndHomeworks
+Korzhenevskii E.B.
